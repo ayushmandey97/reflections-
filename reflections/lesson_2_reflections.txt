@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+	When we initialize a repository, a .git file is created in that directory and then we can use it
+	locally and use git commands in it.
+	We need to do this in order to use version controlling in our local directories.
+
+	
