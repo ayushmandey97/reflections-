@@ -3,4 +3,7 @@ What happens when you initialize a repository? Why do you need to do it?
 	locally and use git commands in it.
 	We need to do this in order to use version controlling in our local directories.
 
-	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	A staging area is like a intermediation between the working directory and the repository, it keeps bundled files to be 
+	committed.
+
